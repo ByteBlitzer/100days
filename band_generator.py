@@ -1,0 +1,5 @@
+print("Welcome to the Band Name Generator.")
+city = input("What city did you grow up in? ")
+pet = input("What is the name of your pet? ")
+band_name = str(city) + str(pet)
+print("The name of your Band should be,", band_name)
